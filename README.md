@@ -3,7 +3,7 @@ An AI-powered tool that generates short news articles from headlines using GPT .
 Generate AI-powered news articles from a given headline using GPT. This project uses **Hugging Face Transformers** and **Streamlit** to create a  interactive news generator.
 
 ## 🚀 Demo  
-
+https://ai-news-article-writer-c3bbmx8hsetxno3skjjspg.streamlit.app/
 
 ## 📌 Features  
 ✅ Generate detailed and engaging news articles from a headline  
